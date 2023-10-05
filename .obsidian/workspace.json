@@ -11,8 +11,12 @@
             "id": "5a83868c11bd3ee3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Gameplay Progression.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fleeting Notes/Gameplay Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fleeting Notes/Gameplay Progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fleeting Notes/Gameplay Progression.md"
+              }
             }
           }
         ]
@@ -148,6 +156,13 @@
   },
   "active": "5a83868c11bd3ee3",
   "lastOpenFiles": [
+    "Images/Pasted image 20231005225213.png",
+    "Fleeting Notes/Gameplay Progression.md",
+    "Images",
+    "Pasted image 20231005225146.png",
+    "Pasted image 20231005225125.png",
+    "Pasted image 20231005225150.png",
+    "Images/Pasted image 20231005225223.png",
     "Literature Notes/What makes a good AI.md",
     "Zettelkasten",
     "Zettelkasten/refs/tags",
@@ -158,7 +173,6 @@
     "Zettelkasten/hooks/update.sample",
     "Zettelkasten/hooks/sendemail-validate.sample",
     "Zettelkasten/hooks/push-to-checkout.sample",
-    "Zettelkasten/hooks/prepare-commit-msg.sample",
     "Fleeting Notes/What makes a good AI.md",
     "Templates/Map of Content.md",
     "Templates/Note Template.md",
