@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Notes/Gameplay Progression.md",
+                "file": "Fleeting Notes/Balance Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Gameplay Progression.md",
+                "file": "Fleeting Notes/Balance Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/Gameplay Progression.md",
+                "file": "Fleeting Notes/Balance Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Gameplay Progression.md"
+                "file": "Fleeting Notes/Balance Economy.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "5a83868c11bd3ee3",
   "lastOpenFiles": [
-    "Images/Pasted image 20231005225213.png",
     "Fleeting Notes/Gameplay Progression.md",
+    "Fleeting Notes/Balance Economy.md",
+    "Images/Pasted image 20231005225213.png",
     "Images",
     "Pasted image 20231005225146.png",
     "Pasted image 20231005225125.png",
