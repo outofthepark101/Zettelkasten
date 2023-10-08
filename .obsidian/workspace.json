@@ -11,18 +11,6 @@
             "id": "5a83868c11bd3ee3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Balance Economy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f98cca301271b51e",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Balance Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/Balance Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fleeting Notes/Balance Economy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +140,11 @@
   },
   "active": "5a83868c11bd3ee3",
   "lastOpenFiles": [
-    "Fleeting Notes/Gameplay Progression.md",
+    "Fleeting Notes/Kena Bridge of Spirits.md",
+    "Literature Notes/Kena's Visual.md",
+    "Permanent Notes/Kena's Art Style.md",
     "Fleeting Notes/Balance Economy.md",
+    "Fleeting Notes/Gameplay Progression.md",
     "Images/Pasted image 20231005225213.png",
     "Images",
     "Pasted image 20231005225146.png",
