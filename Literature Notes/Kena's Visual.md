@@ -3,3 +3,5 @@ The Disney styled cartoon art blends in perfectly with the spiritual and natural
 ## Note Reference
 - [[Kena Bridge of Spirits]]
 
+## See Also
+- [[Kena's Art Style]]
