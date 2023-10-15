@@ -11,8 +11,24 @@
             "id": "a647efe0986c6c85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/MLP 챕터 1 황량한 들판.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8559f757d914c3b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/MLP_Ch5_아이디어.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fleeting Notes/MLP_Ch5_아이디어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fleeting Notes/MLP_Ch5_아이디어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fleeting Notes/MLP_Ch5_아이디어.md"
+              }
             }
           }
         ]
@@ -150,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a647efe0986c6c85",
+  "active": "8559f757d914c3b3",
   "lastOpenFiles": [
+    "Fleeting Notes/MLP 챕터 1 황량한 들판.md",
+    "Fleeting Notes/MLP_Ch5_아이디어.md",
     "Fleeting Notes/Kena Bridge of Spirits.md",
     "Permanent Notes/Kena's Art Style.md",
     "Literature Notes/Kena's Visual.md",
