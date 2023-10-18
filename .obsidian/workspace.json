@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "3c462113cf178fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Farewell North Main System's Aesthetics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a0e6290225c24b3d",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/MLP_Ch5_아이디어.md",
+                "file": "Permanent Notes/Farewell North Main System's Aesthetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/MLP_Ch5_아이디어.md",
+                "file": "Permanent Notes/Farewell North Main System's Aesthetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/MLP_Ch5_아이디어.md"
+                "file": "Permanent Notes/Farewell North Main System's Aesthetics.md"
               }
             }
           }
@@ -171,8 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8559f757d914c3b3",
+  "active": "3c462113cf178fb1",
   "lastOpenFiles": [
+    "Literature Notes/Farewell North Main System's Dynamics.md",
+    "Permanent Notes/Farewell North Main System's Aesthetics.md",
+    "Permanent Notes/Untitled",
+    "Fleeting Notes/Farewell North.md",
     "Fleeting Notes/MLP 챕터 1 황량한 들판.md",
     "Fleeting Notes/MLP_Ch5_아이디어.md",
     "Fleeting Notes/Kena Bridge of Spirits.md",
@@ -204,7 +220,6 @@
     "Zettelkasten/objects/pack",
     "Zettelkasten/objects/info",
     "Zettelkasten/hooks/update.sample",
-    "Zettelkasten/hooks/sendemail-validate.sample",
     "Fleeting Notes/What makes a good AI.md",
     "Templates/Map of Content.md",
     "Templates/Note Template.md",

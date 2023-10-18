@@ -1,0 +1,1 @@
+Seeing the colored area among the black and white gives us sense that the dog has a positive spirit. It is a spiritual guide that helps us overcome our negative thoughts. 

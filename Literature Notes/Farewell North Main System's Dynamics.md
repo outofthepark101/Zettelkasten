@@ -1,0 +1,1 @@
+User will use coloring as one way to solve a puzzle. User may use it to see the color around their world. 
