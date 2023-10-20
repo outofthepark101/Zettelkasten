@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Notes/Jusant Gameplay.md",
+                "file": "Fleeting Notes/개발자와 소통.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Jusant Gameplay.md",
+                "file": "Fleeting Notes/개발자와 소통.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/Jusant Gameplay.md",
+                "file": "Fleeting Notes/개발자와 소통.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Jusant Gameplay.md"
+                "file": "Fleeting Notes/개발자와 소통.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "3c462113cf178fb1",
   "lastOpenFiles": [
-    "Permanent Notes/Farewell North Main System's Aesthetics.md",
     "Fleeting Notes/Jusant Gameplay.md",
+    "Fleeting Notes/개발자와 소통.md",
+    "Permanent Notes/Farewell North Main System's Aesthetics.md",
     "Literature Notes/Farewell North Main System's Dynamics.md",
     "Permanent Notes/Untitled",
     "Fleeting Notes/Farewell North.md",
@@ -212,7 +213,6 @@
     "Fleeting Notes/What makes a good AI.md",
     "Templates/Map of Content.md",
     "Templates/Note Template.md",
-    "Literature Notes.md",
-    "Fleeting Notes.md"
+    "Literature Notes.md"
   ]
 }
